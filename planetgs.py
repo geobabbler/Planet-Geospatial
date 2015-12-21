@@ -8,7 +8,7 @@ import pytz
 
 subscriptions = [
   'http://www.spatiallyadjusted.com/feed/'
-  'http://www.spatiallyadjusted.com/feed/',
+  'http://blog.geomusings.com/feed/',
   ]
 
 # Date and time setup. I want only posts from "today," 
