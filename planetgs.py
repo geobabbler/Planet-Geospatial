@@ -76,6 +76,7 @@ for p in posts:
 ul = '\n<hr />\n'.join(litems)
 
 #Write the HTML.
+#maybe move this out into a template file in the near future
 outhtml = '<html> \
  \
 <meta name="viewport" content="width=device-width" /> \
